@@ -1,0 +1,18 @@
+body {
+    background-color: rgb(143, 184, 196);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+H1{
+    text-align: center;
+}
+H2{
+    text-align: center;
+}
+*{
+    font-family: 'Arial';
+}
+#p1{
+    color: darkgreen;
+}
+div.container{border-style: solid;color: black;}
